@@ -411,6 +411,7 @@ func (p *Postgres) EnableRsMode() {
 
 func (p *Postgres) queryForConstraints() string {
 	if p.rsMode {
+		// Redshift
 		return `
 SELECT
   pc.conname AS name,

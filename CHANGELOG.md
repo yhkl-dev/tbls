@@ -1,5 +1,9 @@
 # Changelog
 
+## [v1.15.1](https://github.com/k1LoW/tbls/compare/v1.15.0...v1.15.1) (2019-05-26)
+
+* Refactor PlantUML output format [#110](https://github.com/k1LoW/tbls/pull/110) ([k1LoW](https://github.com/k1LoW))
+
 ## [v1.15.0](https://github.com/k1LoW/tbls/compare/v1.14.0...v1.15.0) (2019-05-26)
 
 * Fix PlantUML output format [#109](https://github.com/k1LoW/tbls/pull/109) ([k1LoW](https://github.com/k1LoW))
